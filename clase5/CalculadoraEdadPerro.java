@@ -1,3 +1,5 @@
+package clase5;
+
 import java.util.Scanner;
 
 class CalculadoraEdadPerro {
